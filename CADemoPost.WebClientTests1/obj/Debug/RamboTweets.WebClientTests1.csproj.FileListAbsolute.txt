@@ -1,0 +1,15 @@
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\CADemoPost.WebClientTests1.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\CADemoPost.WebClientTests1.pdb
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\CADemoPost.DTO.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\CADemoPost.WebClient.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\CADemoPost.DTO.pdb
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\CADemoPost.WebClient.pdb
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\obj\Debug\RamboTweets.WebClientTests1.csprojResolveAssemblyReference.cache
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\obj\Debug\CADemoPost.WebClientTests1.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.WebClientTests1\obj\Debug\CADemoPost.WebClientTests1.pdb
