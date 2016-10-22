@@ -26,6 +26,7 @@ namespace RamboTweets.WebClient.Implementations.Tests
             Assert.IsInstanceOfType(list, typeof(IEnumerable<Post>));
         }
 
+        [TestMethod()]
         public void GetPostsTestProxy()
         {
             IProxy<Post, PostViewModel> proxyClient = RamboContainer.GetContainer().Resolve<IProxy<Post, PostViewModel>>(
