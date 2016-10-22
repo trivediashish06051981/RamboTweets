@@ -1,0 +1,10 @@
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.DTO\bin\Debug\CADemoPost.DTO.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.DTO\bin\Debug\CADemoPost.DTO.pdb
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.DTO\obj\Debug\RamboTweets.DTO.csprojResolveAssemblyReference.cache
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.DTO\obj\Debug\CADemoPost.DTO.dll
+C:\Users\TV\Documents\Visual Studio 2015\Projects\CADemoPost\CADemoPost.DTO\obj\Debug\CADemoPost.DTO.pdb
+C:\Users\Sindhu\Downloads\RamboTweets-master\CADemoPost.DTO\bin\Debug\CADemoPost.DTO.dll
+C:\Users\Sindhu\Downloads\RamboTweets-master\CADemoPost.DTO\bin\Debug\CADemoPost.DTO.pdb
+C:\Users\Sindhu\Downloads\RamboTweets-master\CADemoPost.DTO\obj\Debug\RamboTweets.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Sindhu\Downloads\RamboTweets-master\CADemoPost.DTO\obj\Debug\CADemoPost.DTO.dll
+C:\Users\Sindhu\Downloads\RamboTweets-master\CADemoPost.DTO\obj\Debug\CADemoPost.DTO.pdb
